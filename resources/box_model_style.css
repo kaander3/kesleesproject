@@ -1,0 +1,71 @@
+/*
+  white: #FFFFFF
+  Green (accent 1):#62735B
+  Purple compliment(accent 1):#6c5b73;
+  Orange (accent 2) #fac393
+  Blue compliment (accent 2)#93cafa
+ */
+
+body{
+	padding: 25px 50px 25px 50px;
+	font-size: 20px;
+
+}
+
+h1, h2, h3 {
+color:#62735B;
+}
+
+h1 {
+	text-align: center;
+}
+
+p, li, table {
+	font-size: 1.2em
+}
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th, td {
+	border:#fac393 solid 4px;
+	padding:8px;
+
+}
+
+a{
+	color:#62735B;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#93cafa;
+}
+
+
+
+
+div p {
+border-style: double;	
+background-color: #62735B;
+color: #FFFFFF;
+border-width: 10px;
+border: 10px solid #fac393;
+margin: 35px;
+width: 500px;
+
+}
+
+div img {
+	background-color: #62735B;
+	width: 646px;
+	padding: 10px 20px 10px 20px;
+	border-style: dotted;
+	border-width: 20px;
+	border-color: #fac393;
+	margin: 50px;
+	}
+
